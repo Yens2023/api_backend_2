@@ -1,4 +1,4 @@
-package api.java.backend.controller;
+package api.java.backend.controller.v1;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
