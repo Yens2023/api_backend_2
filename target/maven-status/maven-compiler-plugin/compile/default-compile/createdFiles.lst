@@ -3,6 +3,7 @@ api\java\backend\dto\brand\CreateBrandDto.class
 api\java\backend\service\master\IBrandService.class
 api\java\backend\service\master\IProductService.class
 api\java\backend\annotation\ValidPassword.class
+api\java\backend\config\security\SecurityConfiguration.class
 api\java\backend\repository\security\UserRepository.class
 api\java\backend\service\master\IProductImagesService.class
 api\java\backend\domain\master\ProductImages.class
@@ -39,7 +40,6 @@ api\java\backend\config\jwt\JwtTokenUtil.class
 api\java\backend\exception\auth\UsernameAlreadyExistsException.class
 api\java\backend\service\master\Impl\BrandService.class
 api\java\backend\repository\transaction\OrderRepository.class
-api\java\backend\config\security\SecurityConfig.class
 api\java\backend\controller\v2\EjemploController.class
 api\java\backend\dto\custom\APIResponse$APIResponseBuilder.class
 api\java\backend\dto\category\CreateCategoryDto.class

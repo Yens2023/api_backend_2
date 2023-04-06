@@ -3,7 +3,6 @@ C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\service\security\Impl\UserServiceImpl.java
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\dto\cart\CreateCartDto.java
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\dto\user\ReadUserDto.java
-C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\config\security\SecurityConfig.java
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\dto\category\CreateCategoryDto.java
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\config\jwt\JwtTokenUtil.java
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\domain\master\Brand.java
@@ -56,6 +55,7 @@ C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\dto\productimage\CreateProductImageDto.java
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\repository\master\ProductImagesRepository.java
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\service\master\Impl\ProductImagesService.java
+C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\config\security\SecurityConfiguration.java
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\service\master\ICategoryService.java
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\dto\productimage\UpdateProductImageDto.java
 C:\Users\admin\Documents\NetBeansProjects\Project\api_backend\src\main\java\api\java\backend\dto\productimage\ReadProductImageDto.java
