@@ -12,6 +12,7 @@ api\java\backend\dto\cart\CreateCartDto.class
 api\java\backend\exception\global\ResourceNotFoundException.class
 api\java\backend\dto\custom\APIResponse.class
 api\java\backend\service\security\Impl\AuthServiceImpl.class
+api\java\backend\config\jwt\JwtRequestFilter.class
 api\java\backend\controller\v1\BrandController.class
 api\java\backend\service\master\Impl\ProductService.class
 api\java\backend\dto\custom\ErrorDTO.class
@@ -34,9 +35,11 @@ api\java\backend\repository\master\BrandRepository.class
 api\java\backend\dto\productimage\ReadProductImageDto.class
 api\java\backend\exception\auth\EmailAlreadyExistsException.class
 api\java\backend\repository\master\ProductRepository.class
+api\java\backend\config\jwt\JwtTokenUtil.class
 api\java\backend\exception\auth\UsernameAlreadyExistsException.class
 api\java\backend\service\master\Impl\BrandService.class
 api\java\backend\repository\transaction\OrderRepository.class
+api\java\backend\config\security\SecurityConfig.class
 api\java\backend\controller\v2\EjemploController.class
 api\java\backend\dto\custom\APIResponse$APIResponseBuilder.class
 api\java\backend\dto\category\CreateCategoryDto.class
@@ -56,10 +59,10 @@ api\java\backend\domain\master\Brand.class
 api\java\backend\dto\productimage\UpdateProductImageDto.class
 api\java\backend\handler\GlobalExceptionHandler.class
 api\java\backend\service\master\ICategoryService.class
+api\java\backend\config\jwt\JwtAuthEntryPoint.class
 api\java\backend\utils\SD.class
 api\java\backend\controller\v1\ExampleController.class
 api\java\backend\dto\cart\ReadCartDto.class
-api\java\backend\config\WebSecurityConfig.class
 api\java\backend\domain\transaction\OrderItem.class
 api\java\backend\dto\auth\LoginResponseDto.class
 api\java\backend\dto\category\UpdateCategoryDto.class
