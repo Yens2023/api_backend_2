@@ -73,8 +73,8 @@ public class UserController {
     @GetMapping()
     public List<ReadUserDto> GetAll(){
         List<User> userList = userService.findAll();
-        var resultado = AutoMapper.copyListProperties(userList, ReadUserDto.class);
-        return resultado;
+        return  AutoMapper.copyListProperties(userList, ReadUserDto.class);
+
 
     }
 
